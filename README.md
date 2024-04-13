@@ -1,2 +1,3 @@
 # Art-Portfolio
-Drawings and animations made by myself
+Drawings, 3D Models and Animations made by myself
+
